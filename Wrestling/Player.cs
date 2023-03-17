@@ -1,5 +1,6 @@
 ﻿namespace Wrestling
 {
+     
     public class Player
     {
         //declaracion de variables
